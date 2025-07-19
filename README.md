@@ -11,7 +11,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 부족하지만 열심히 처음부터 시작해보겠ㅅ브니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 부족하지만 열심히 처음부터 시작해보겠습니다 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
