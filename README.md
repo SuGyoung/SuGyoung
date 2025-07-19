@@ -11,7 +11,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 차근차근 성장해나가는 개발자가 되고싶습니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 많이부족하지만 지금부터라도 열심히 하자. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -26,4 +26,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuGyoung&layout=compact&bg_color=60,fff5e6,ebe6ff&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+
+
+
 
