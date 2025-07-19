@@ -3,6 +3,9 @@
 <!--
 **SuGyoung/SuGyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+    
+-->
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffdfdf,100:e6e116&height=180&text=SuSyoung&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
@@ -24,5 +27,3 @@
            /> </div> 
     </div>
 
-    
--->
