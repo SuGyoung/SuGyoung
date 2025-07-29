@@ -9,9 +9,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1dfdf,100:e6e102&height=240&text=Sugyoung&animation=fadeIn&fontColor=ffffff&fontSize=90" />
     </div>
     
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1dfdf,100:e6e102&height=180&text=Sugyoung&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-    </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 부족하지만 열심히 처음부터 시작해보겠습니다 <br> 1일 1커밋을 향해 </div> 
