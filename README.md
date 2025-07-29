@@ -6,6 +6,10 @@
     
 -->
 <div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1dfdf,100:e6e102&height=240&text=Sugyoung&animation=fadeIn&fontColor=ffffff&fontSize=90" />
+    </div>
+    
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1dfdf,100:e6e102&height=180&text=Sugyoung&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
