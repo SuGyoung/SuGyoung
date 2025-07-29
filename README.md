@@ -7,7 +7,7 @@
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.appㅎ/api?type=waving&color=0:ffdfdf,100:e6e116&height=180&text=Sugyoung&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.appㅎ/api?type=waving&color=0:ffdfdf,100:e6e116&height=180&text=SuSyoung&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
