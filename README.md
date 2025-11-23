@@ -1,12 +1,12 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1dfdf,100:e6e102&height=240&text=Sugyoung&animation=fadeIn&fontColor=ffffff&fontSize=90" />
-    </div>
+
 <!--
 **SuGyoung/SuGyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
     
 -->
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1dfdf,100:e6e102&height=240&text=Sugyoung&animation=fadeIn&fontColor=ffffff&fontSize=90" />
+    </div>
  <div align= "center"> 
     <h2 color: #282d33;"> 백준티어💕🐼🐬 </h2>  
 
