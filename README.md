@@ -28,9 +28,10 @@
 
 <br>
 
-## 🔰 Baekjoon Tier
+ <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백준티어! </h2>  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tntnberry)](https://solved.ac/tntnberry)
 
-
+</div>
 
