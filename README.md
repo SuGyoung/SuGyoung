@@ -5,6 +5,15 @@
 
     
 -->
+<br>
+
+ <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백준티어💕🐼🐬 </h2>  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tntnberry)](https://solved.ac/tntnberry)
+
+</div>
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1dfdf,100:e6e102&height=240&text=Sugyoung&animation=fadeIn&fontColor=ffffff&fontSize=90" />
     </div>
@@ -26,12 +35,4 @@
            /> </div> 
     </div>
 
-<br>
-
- <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백준티어! </h2>  
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tntnberry)](https://solved.ac/tntnberry)
-
-</div>
 
