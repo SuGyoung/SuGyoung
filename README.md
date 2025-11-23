@@ -26,6 +26,11 @@
            /> </div> 
     </div>
 
+<br>
+
+## 🔰 Baekjoon Tier
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tntnberry)](https://solved.ac/tntnberry)
 
 
 
