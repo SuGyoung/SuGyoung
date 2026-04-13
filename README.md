@@ -16,7 +16,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 부족하지만 열심히 처음부터 시작해보겠습니다 <br> 1일 1커밋을 향해 <br> <h4> 좌우명 : 어제보다 더 나아진 오늘이 되길</h4></div> 
-    <div align= "center"> <a href=https://velog.io/@spring_berry/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@spring_berry/posts"> </a>
+    <p>벨로그 놀러가기✨</p><div align= "center"> <a href=https://velog.io/@spring_berry/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@spring_berry/posts"> </a>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
